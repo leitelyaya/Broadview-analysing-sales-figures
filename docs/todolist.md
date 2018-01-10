@@ -1,4 +1,15 @@
 # 任务认领与完成情况
+进度
+2018-01-10
+1) @呆若木鸡 完成当当网 图书信息爬虫 第一版已经上传：https://github.com/wonderfulsuccess/Broadview-analysing-sales-figures/tree/master/spider
+2）@白马飞飞 和@Ja等讨论能力匹配模型
+
+Todo list
+2018-01-10
+1) 继续完善爬虫方案。
+2）寻找成员能力相关数据，确定能力匹配模型参数。
+3）根据模型参数初步完成模型的设计。
+
 
 进度
 2018-01-09

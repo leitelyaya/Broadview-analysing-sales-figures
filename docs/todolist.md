@@ -1,5 +1,16 @@
 # 任务认领与完成情况
 
+进度
+2018-01-09
+1) 草拟爬虫技术方案。https://github.com/leitelyaya/Broadview-analysing-sales-figures/blob/master/docs/spider-implement.md
+2) 任@小丙 为运维专员，维护aliyun服务器，安装etcd, python3.6, 维护安装文档
+3) 产生第一笔花费，阿里云数据盘，用于保存程序数据
+4) 任@哈哈哈哈 为小组二组长，主要协助@呆若木鸡 跟进爬虫的实现，11号上任
+5) 任@呆若木鸡 为爬虫组技术大拿，实现当当网爬虫客户端
+6) 已收集完毕所有成员信息，https://github.com/leitelyaya/Broadview-analysing-sales-figures/blob/master/docs/person.md
+7) 任@白马飞飞 为小组一组长，和@Ja. 协作，做一个成员能力匹配的小产品，第一期任务是完成调研问卷。
+
+
 Todo list
 2018-01-09
 1) 整理每个人的回复，形成表格
@@ -8,7 +19,8 @@ Todo list
 3) 设定两个奖项，1.贡献奖，奖励小组长的工作；2.技术成就奖，奖励技术大拿的工作。
 每个奖项只有一个人有冠群标签的权益，按周评选产生。
 4) 群主任项目经理，负责统筹整体进度。博海任技术总监，负责攻克技术难关、指导小组研究领域。
-5) 开通阿里云OSS，研究SDK，把demo给到@呆若木鸡
+5) 开通阿里云OSS，研究SDK，把demo给到@呆若木鸡 [OSS](docs/oss.md)
+
 
 进度
 2018-01-08

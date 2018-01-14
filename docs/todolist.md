@@ -1,6 +1,21 @@
 # 任务认领与完成情况
 进度
 2018-01-13
+（一）
+1) 产生第二笔花费，OSS服务器，一年包月，存储套餐40G和下行流量50G，总共花费9+108=117
+内部地址：broadview.oss-cn-shanghai-internal.aliyuncs.com
+访问域名：broadview.oss-cn-shanghai.aliyuncs.com
+管理客户端：https://github.com/aliyun/oss-browser/blob/master/all-releases.md?spm=5176.doc61872.2.6.oGv9r4&file=all-releases.md
+AccessToken: LTAI6wulcvx5Jv6P/QIhZJO9Vt10RgYTpLg9gwKz5R513Xo
+2) 研究数加平台使用，测试训练方法。
+登录地址：https://signin.aliyun.com/broadview/login.htm?spm=5176.2020520153.10601.d5.1ddc6c4LV30lT
+在点开的页面中输入：broadview@broadview
+下一步输入密码：3w38iFSCF
+上传OSS后地址：oss://broadview.oss-cn-shanghai-internal.aliyuncs.com/broadview/test_mnist/tensorflow_mnist.py
+Tensorflow常见问题：
+https://help.aliyun.com/document_detail/30352.html?spm=5176.2020520165.119.d30352.2141c16aJhITwa
+加入PAI群：https://help.aliyun.com/document_detail/58326.html?spm=5176.doc42745.6.540.SJvOCV
+（二）
 @ja讲解成员能力匹配产品设计，并初步确定采用K临近算法初步实现该产品。
 @呆若木鸡讲解图书推荐产品。
 @bohy_i和@leitelyaya讲解推荐算法

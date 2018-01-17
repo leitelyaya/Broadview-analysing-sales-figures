@@ -99,14 +99,14 @@ ln -s /usr/local/python3/bin/jupyter /usr/local/bin/jupyter
 
 - 生成配置文件
 
-```
+```bash
 [root@iZ23m1dgviaZ bin]# jupyter notebook --generate-config
 Writing default config to: /root/.jupyter/jupyter_notebook_config.py
 ```
 
 - 进入ipython 生成一个密文的密码：(此时输入的密码为：ab123)
 
-```
+```bash
 In [1]: from notebook.auth import passwd
 
 In [2]: passwd()
@@ -118,9 +118,17 @@ Out[2]: 'sha1:b2fb89bc68c3:65bb47afb3f4e5fcaf2bf9154a54ca15081f1e1c'
 
 - 修改默认配置文件，如下所示
 
-```
+```bash
 c.NotebookApp.ip='*'
 c.NotebookApp.password = u'sha:ce...刚才复制的那个密文'
 c.NotebookApp.open_browser = False
 c.NotebookApp.port =8888 #随便指定一个端口
+```
+
+
+- 启动jupyter notebook
+
+```bash
+jupyter notebook --allow-root >/dev/null 2>&1 &
+
 ```

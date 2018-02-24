@@ -22,12 +22,12 @@
 
 ## 进度
 ### 2018-01-13
-####（一）
+#### 小组一
 1) 产生第二笔花费，OSS服务器，一年包月，存储套餐40G和下行流量50G，总共花费9+108=117
 > 内部地址：broadview.oss-cn-shanghai-internal.aliyuncs.com
 > 访问域名：broadview.oss-cn-shanghai.aliyuncs.com
 > 管理客户端：https://github.com/aliyun/oss-browser/blob/master/all-releases.md?spm=5176.doc61872.2.6.oGv9r4&file=all-releases.md
-> AccessToken: LTAI6wulcvx5Jv6P/QIhZJO9Vt10RgYTpLg9gwKz5R513Xo
+> AccessToken:   LTAI6wulcvx5Jv6P/QIhZJO9Vt10RgYTpLg9gwKz5R513Xo
 2) 研究数加平台使用，测试训练方法。
 > 登录地址：https://signin.aliyun.com/broadview/login.htm?spm=5176.2020520153.10601.d5.1ddc6c4LV30lT
 > 在点开的页面中输入：broadview@broadview
@@ -36,7 +36,7 @@
 > Tensorflow常见问题：
 > https://help.aliyun.com/document_detail/30352.html?spm=5176.2020520165.119.d30352.2141c16aJhITwa
 > 加入PAI群：https://help.aliyun.com/document_detail/58326.html?spm=5176.doc42745.6.540.SJvOCV
-####（二）
+#### 小组二
 1) @ja讲解成员能力匹配产品设计，并初步确定采用K临近算法初步实现该产品。
 2) @呆若木鸡讲解图书推荐产品。
 3) @bohy_i和@leitelyaya讲解推荐算法
@@ -72,7 +72,7 @@
 ## 进度
 2018-01-10
 > 小组一：@白马飞飞 、@Ja、leitelyaya等开会，讨论能力匹配模。
-> 小组二：@呆若木鸡 完成当当网 图书信息爬虫 第一版已经上传：
+> 小组二：@呆若木鸡 完成当当网 图书信息爬虫   第一版已经上传：
 >          https://github.com/wonderfulsuccess/Broadview-analysing-sales-figures/tree/master/spider
 
 ## Todo list
@@ -132,7 +132,7 @@ b) AI入门
 
 ### 2018-01-07
 1) 群内讨论，以节约计算资源为目标，分布式计算可行性方案，可以预见的困难是本地机器内网穿透的问题，需要测试
-具体参考：https://github.com/leitelyaya/Broadview-analysing-sales-figures/blob/master/docs/purchase.md
+> 具体参考：https://github.com/leitelyaya/Broadview-analysing-sales-figures/blob/master/docs/purchase.md
 2) 需要帮手维护Github文档，头疼格式和图床，原图：https://pan.baidu.com/s/1b8aiIi
 3) 拉天使投资，设计合理的回报机制，暂时想到针对贡献者和捐赠者提供设计选型分析、BUG处理心得等文档资源。
 4) 欢迎扩散和捐赠，谢谢。

@@ -19,9 +19,9 @@
 
 博文寻踪组织
 
-![image](https://thumbnail0.baidupcs.com/thumbnail/2dc211938f80be95de83d1b80b4c98dc?fid=117828767-250528-747522836534647&time=1515279600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2BHKFxQx5HKXGgbhLOVrEYCSHRGg%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=146169257597748046&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![image](docs/博文寻踪群.jpg)
 
 服务器实践资源有限，所有捐赠款项将用于研究工作。承诺对支持者回馈==一份特别的礼物==，一份精心准备的一手资料，内容包括但不限于所有实践过程的设计思路和踩过的坑。
 
-![image](https://thumbnail0.baidupcs.com/thumbnail/3c715b6885d854ef3d5ee4b66b77647a?fid=117828767-250528-37898572472318&time=1515279600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-54NGKg%2BFFrstFWjlul%2Bo2LrH55I%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=146024378394218316&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![image](docs/微信收款.jpg)
 

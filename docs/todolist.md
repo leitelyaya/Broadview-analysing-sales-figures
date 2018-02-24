@@ -1,89 +1,90 @@
 # 任务认领与完成情况
-进度
-2018-01-17
-1. @小丙 装了supervisor，尝试装jdk，没有32位的服务器版，没成功。
-2.@24 跟进了阿里云的反馈，尝试按提示做一个示例，还有错误的地方需要跟进。
+## 进度
+### 2018-01-17
+1) @小丙 装了supervisor，尝试装jdk，没有32位的服务器版，没成功。
+2) @24 跟进了阿里云的反馈，尝试按提示做一个示例，还有错误的地方需要跟进。
 
-Todo list
-2018-01-17
-继续跟进阿里云服务器问题。
-完成supervisor的安装
-准备群内讨论书籍特征的问题。
+## Todo list
+### 2018-01-17
+1) 继续跟进阿里云服务器问题。
+2) 完成supervisor的安装
+3) 准备群内讨论书籍特征的问题。
 
-进度
-2018-01-15
-leitelyaya今天跟踪了一下阿里云，没有实质性进展,将权限工单分配给@24，请其继续跟进。
-加入小组二，讨论了收集书籍特征的事情，觉得维度挺多工作量很大，准备在大群内讨论
+## 进度
+### 2018-01-15
+1) leitelyaya今天跟踪了一下阿里云，没有实质性进展,将权限工单分配给@24，请其继续跟进。
+2) 加入小组二，讨论了收集书籍特征的事情，觉得维度挺多工作量很大，准备在大群内讨论
 
-Todo list
-2018-01-15
-继续跟进阿里云服务器问题。
-准备群内讨论书籍特征的问题。
+## Todo list
+### 2018-01-15
+1) 继续跟进阿里云服务器问题。
+2) 准备群内讨论书籍特征的问题。
 
-进度
-2018-01-13
-（一）
+## 进度
+### 2018-01-13
+####（一）
 1) 产生第二笔花费，OSS服务器，一年包月，存储套餐40G和下行流量50G，总共花费9+108=117
-内部地址：broadview.oss-cn-shanghai-internal.aliyuncs.com
-访问域名：broadview.oss-cn-shanghai.aliyuncs.com
-管理客户端：https://github.com/aliyun/oss-browser/blob/master/all-releases.md?spm=5176.doc61872.2.6.oGv9r4&file=all-releases.md
-AccessToken: LTAI6wulcvx5Jv6P/QIhZJO9Vt10RgYTpLg9gwKz5R513Xo
+> 内部地址：broadview.oss-cn-shanghai-internal.aliyuncs.com
+> 访问域名：broadview.oss-cn-shanghai.aliyuncs.com
+> 管理客户端：https://github.com/aliyun/oss-browser/blob/master/all-releases.md?spm=5176.doc61872.2.6.oGv9r4&file=all-releases.md
+> AccessToken: LTAI6wulcvx5Jv6P/QIhZJO9Vt10RgYTpLg9gwKz5R513Xo
 2) 研究数加平台使用，测试训练方法。
-登录地址：https://signin.aliyun.com/broadview/login.htm?spm=5176.2020520153.10601.d5.1ddc6c4LV30lT
-在点开的页面中输入：broadview@broadview
-下一步输入密码：3w38iFSCF
-上传OSS后地址：oss://broadview.oss-cn-shanghai-internal.aliyuncs.com/broadview/test_mnist/tensorflow_mnist.py
-Tensorflow常见问题：
-https://help.aliyun.com/document_detail/30352.html?spm=5176.2020520165.119.d30352.2141c16aJhITwa
-加入PAI群：https://help.aliyun.com/document_detail/58326.html?spm=5176.doc42745.6.540.SJvOCV
-（二）
-@ja讲解成员能力匹配产品设计，并初步确定采用K临近算法初步实现该产品。
-@呆若木鸡讲解图书推荐产品。
-@bohy_i和@leitelyaya讲解推荐算法
+> 登录地址：https://signin.aliyun.com/broadview/login.htm?spm=5176.2020520153.10601.d5.1ddc6c4LV30lT
+> 在点开的页面中输入：broadview@broadview
+> 下一步输入密码：3w38iFSCF
+> 上传OSS后地址：oss://broadview.oss-cn-shanghai-internal.aliyuncs.com/broadview/test_mnist/tensorflow_mnist.py
+> Tensorflow常见问题：
+> https://help.aliyun.com/document_detail/30352.html?spm=5176.2020520165.119.d30352.2141c16aJhITwa
+> 加入PAI群：https://help.aliyun.com/document_detail/58326.html?spm=5176.doc42745.6.540.SJvOCV
+####（二）
+1) @ja讲解成员能力匹配产品设计，并初步确定采用K临近算法初步实现该产品。
+2) @呆若木鸡讲解图书推荐产品。
+3) @bohy_i和@leitelyaya讲解推荐算法
 
-Todo list
-2018-01-13
-小组一：收集图书推荐产品的相关数据，着手相关产品实现
-小组二：收集成员能力匹配产品相关设计，着手相关产品实现
+## Todo list
+### 2018-01-13
+> 小组一：收集图书推荐产品的相关数据，着手相关产品实现
+> 小组二：收集成员能力匹配产品相关设计，着手相关产品实现
 
-进度
-2018-01-12
-@白马飞飞 、@Ja、leitelyaya等微信开会，确定了会议相关安排。
-周末开会，则会议时间定在晚上10点。工作日开会，则会议定在晚上10点20分。
-会议采用专业软件确保会议质量。
+## 进度
+### 2018-01-12
+1) @白马飞飞 、@Ja、leitelyaya等微信开会，确定了会议相关安排。
+2) 周末开会，则会议时间定在晚上10点。工作日开会，则会议定在晚上10点20分。
+3) 会议采用专业软件确保会议质量。
 
-Todo list
-2018-01-12
-   明天晚上（1月13日10点）开会，晚上会议主题：晚上会发起一个简单的语音会议，讨论能力匹配产品的算法实现步骤。
+## Todo list
+### 2018-01-12
+> 明天晚上（1月13日10点）开会，晚上会议主题：晚上会发起一个简单的语音会议，讨论能力匹配产品的算法实现步骤。
  请@Ja. 讲解产品设计，请@呀阿列克赛马克西莫维奇比什科夫 介绍推荐算法应用，请@呆若木鸡 介绍当当网的数据特点
 
 
-进度
-2018-01-11
-1. 小组一，分配@tc 研究微信小程序开发，已给到注册文档。
-2.注册小程序，配置好IP白名单，把开发账号给到@白马飞飞 保管。
-3.@呆若木鸡给到当当网爬虫，30分钟内爬完6000本计算机书籍，数据大小为900M。
+## 进度
+### 2018-01-11
+1) 小组一，分配@tc 研究微信小程序开发，已给到注册文档。
+2) 注册小程序，配置好IP白名单，把开发账号给到@白马飞飞 保管。
+3) @呆若木鸡给到当当网爬虫，30分钟内爬完6000本计算机书籍，数据大小为900M。
 
-Todo list
-2018-01-11
-1. 小组一，和@阿呀…夫 沟通@Ja. 的产品设计，确定推荐算法。
-2.小组二，@呆若木鸡 研究当当网和京东爬虫
+## Todo list
+### 2018-01-11
+1) 小组一，和@阿呀…夫 沟通@Ja. 的产品设计，确定推荐算法。
+2) 小组二，@呆若木鸡 研究当当网和京东爬虫
 
-进度
+## 进度
 2018-01-10
-1)小组一：@白马飞飞 、@Ja、leitelyaya等开会，讨论能力匹配模。
-2)小组二：@呆若木鸡 完成当当网 图书信息爬虫 第一版已经上传：
-          https://github.com/wonderfulsuccess/Broadview-analysing-sales-figures/tree/master/spider
+> 小组一：@白马飞飞 、@Ja、leitelyaya等开会，讨论能力匹配模。
+> 小组二：@呆若木鸡 完成当当网 图书信息爬虫 第一版已经上传：
+>          https://github.com/wonderfulsuccess/Broadview-analysing-sales-figures/tree/master/spider
 
-Todo list
-2018-01-10
-1)小组一：@Ja根据讨论，初步构建能力匹配模型。
-          leitelyaya推荐一名算法大拿加入小组一，协助能力匹配模型的构建。
-          @白马飞飞进行进度跟进以及资源的申请和调配。
+## Todo list
+### 2018-01-10
+1)小组一：
+> @Ja根据讨论，初步构建能力匹配模型。
+> leitelyaya推荐一名算法大拿加入小组一，协助能力匹配模型的构建。
+> @白马飞飞进行进度跟进以及资源的申请和调配。
 2)小组二：继续完善爬虫方案。
 
-进度
-2018-01-09
+## 进度
+### 2018-01-09
 1) 草拟爬虫技术方案。https://github.com/leitelyaya/Broadview-analysing-sales-figures/blob/master/docs/spider-implement.md
 2) 任@小丙 为运维专员，维护aliyun服务器，安装etcd, python3.6, 维护安装文档
 3) 产生第一笔花费，阿里云数据盘，用于保存程序数据
@@ -93,8 +94,8 @@ Todo list
 7) 任@白马飞飞 为小组一组长，和@Ja. 协作，做一个成员能力匹配的小产品，第一期任务是完成调研问卷。
 
 
-Todo list
-2018-01-09
+## Todo list
+### 2018-01-09
 1) 整理每个人的回复，形成表格
 2) 设立研究组，研究组由小组长、技术大拿、一般成员组成。小组长需要有责任心，推动整个组成员进步；
 技术大拿需要有一定的实践经验，愿意分享学习方法；欢迎大家报名。
@@ -104,24 +105,24 @@ Todo list
 5) 开通阿里云OSS，研究SDK，把demo给到@呆若木鸡 [OSS](docs/oss.md)
 
 
-进度
-2018-01-08
+## 进度
+### 2018-01-08
 1) 已经和55人发起聊天，收到有效回复49个。如果没有跟群主取得联系的，请告知哈，有疏漏请见谅。
 2) 确定下一阶段两个议论主题：
 a) 图像识别
 b) AI入门
 3) 分配给@哈哈哈哈 调查问卷的任务，答应14号给到
 4) 分配给@小丙 整理AI自学经验的任务，已经给出
-https://github.com/cheng33x/python-learn/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97.md
-小丙提供的学习方法非常借鉴意义，强烈推荐。
+> https://github.com/cheng33x/python-learn/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97.md
+> 小丙提供的学习方法非常借鉴意义，强烈推荐。
 5) 分配给@可以改名了吗 整理B站学习视频的工作，希望其他人有类似的资源记得整理一份，特别地，要写上你学习的目的，学习的收获，学习的难点。帮助后来者快速入门。
 
-2018-01-08
+### 2018-01-08
 1) 群主会加群内每一个人，了解大家擅长的技术、从事的工作、学习的目标、遇到的困难等，请大家积极配合。
 大家的反馈非常重要，我会收集起来，以后会针对性地设计技术议题，促进大家共同进步
 
-进度：
-2018-01-07
+## 进度：
+### 2018-01-07
 1) 群内讨论了关于分布式计算的可能性，博海提出了"区块链+人工智能"的设想
 2) 制定了新的群标签规则，"擅长领域+城市+昵称"
 3) 群内有探讨OpenCV在大图内快速识别小图的算法
@@ -129,7 +130,7 @@ https://github.com/cheng33x/python-learn/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6
 （另有详细总结，只对贡献者和捐赠者开放）
 
 
-2018-01-07
+### 2018-01-07
 1) 群内讨论，以节约计算资源为目标，分布式计算可行性方案，可以预见的困难是本地机器内网穿透的问题，需要测试
 具体参考：https://github.com/leitelyaya/Broadview-analysing-sales-figures/blob/master/docs/purchase.md
 2) 需要帮手维护Github文档，头疼格式和图床，原图：https://pan.baidu.com/s/1b8aiIi
@@ -141,8 +142,8 @@ https://github.com/cheng33x/python-learn/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6
 8) 类似Disconf的Python配置管理选型
 9) 群内收集，制作调查问卷，例如最近买的技术书籍是什么名字，出版社，什么时候，是否看完，学习难度，交流反馈是否通畅，是否不能坚持等等...
 
-进度：
-2018-01-06
+## 进度：
+### 2018-01-06
 我们确定抓取京东、亚马逊、当当出版书籍销售数据和评论数据，放在阿里云中统一管理，服务器资源是自费，可能会有些抠门。昨天我们讨论了几个方面：
 1) 数据维度，书籍的介绍、书籍封面颜色、排序情况、评论内容
 2) 数据存储方案，使用mongodb或者是mysql

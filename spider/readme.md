@@ -6,9 +6,15 @@
 
 # 如何运行
 
+window 安装scrapy时需要安装编译工具 cl:
+https://www.visualstudio.com/53d997bd-3c36-48fb-a592-ee2eb51a09a5
+
 1) pip install scrapy
 2) cd bookinfo
 3) scrapy crawl dangdangbook
+4) chrome插件Xpath Helper，能快速提取xpath表达式，加速编码过程
+http://bj.ddooo.com:8081/uuauth/xpathhp_109412.rar?f8c2ce1891356808d605255747d92dd1.rar
+
 
 运行完毕后项目根目录出现/bookdata/data.json 为目标数据
 
